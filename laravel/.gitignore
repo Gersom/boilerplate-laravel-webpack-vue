@@ -1,0 +1,46 @@
+# ====== Structure files ======
+/public/storage
+/vendor
+dist/
+test/e2e/reports
+test/unit/coverage
+
+
+
+# ====== Personal settings files ======
+.env
+.config-personal.js
+
+
+
+# ====== Basic ======
+.DS_Store
+.idea
+
+
+
+# ====== Logs ======
+*.log
+composer.lock
+logs
+npm-debug.log*
+selenium-debug.log
+
+
+
+# ====== Dependency directories ======
+jspm_packages
+node_modules/
+
+
+
+# ====== Optional npm cache directory ======
+.npm
+Homestead.json
+Homestead.yaml
+prepros.cfg
+
+
+
+# ====== Optional REPL history ======
+.node_repl_history
